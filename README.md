@@ -21,8 +21,8 @@
 </div>
 
 </br>
-<div align="start">  
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwanderley&layout=compact&hide_border=true&title_color=black&text_color=white&bg_color=black" />
+<div align="left">  
+ <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwanderley&layout=compact&hide_border=true&title_color=black&text_color=white&bg_color=black" />
 </div>
 </br>
 
