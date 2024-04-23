@@ -20,10 +20,7 @@
 <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
 </div>
 
-</br>
-<div align="left">  
- <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwanderley&layout=compact&hide_border=true&title_color=black&text_color=white&bg_color=black" />
-</div>
+
 </br>
 
 ## Vamos nos conectar:
