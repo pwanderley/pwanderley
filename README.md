@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
 
-### Olá! Prazer, me chamo Pedro Wanderley e aqui tem informações sobre meu perfil profissional.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Pedro+Emanuel+Wanderley;Sou+um+Desenvolvedor+Full+Stack;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
 
 ## Tecnologias que uso no meu dia:
 <div style="display: inline_block">
